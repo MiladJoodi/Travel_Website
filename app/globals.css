@@ -16,6 +16,7 @@
 
 body {
   /* font-family: "Lalezar"; */
+  overflow-x: hidden
 }
 
 @layer utilities {
