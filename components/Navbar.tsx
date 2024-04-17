@@ -34,6 +34,16 @@ const Navbar = () => {
                 <Button type="button" title="ورود" icon="/user.svg" varient="btn_dark_green" />
             </div>
 
+                {/* Menu icon */}
+                <Image 
+                    src="/menu.svg"
+                    alt="logo"
+                    width={32}
+                    height={32}
+                    className="inline-block lg:hidden"
+                />
+
+
         </nav>
     );
 }
