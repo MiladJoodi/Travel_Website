@@ -13,7 +13,7 @@ const Hero = () => {
           height={50}
           className="absolute right-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg-bold-99 mt-4">منطقه کمپ پوتوک ترونو</h1>
+        <h1 className="xl:bold-52 bold-40 lg-bold-99 mt-4">منطقه کمپ پوتوک ترونو</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           تورهای مسافرتی توسط آژانس‌های گردشگری عرضه می‌شوند. خدمات موجود در
           تورهای مسافرتی شامل رزرو اقامتگاه، خرید بلیط وسیله نقلیه، هماهنگی برای
@@ -22,7 +22,7 @@ const Hero = () => {
           جاذبه‌های گردشگری و مکان‌های دیدنی می‌شود.
         </p>
 
-        <div className="my-11 flex flex-wrap gap-5">
+        <div className="my-11 flex flex-wrap gap-5 items-center">
           <div className="flex items-center gap-2">
             {Array(5)
               .fill(1)

@@ -22,7 +22,7 @@ const GetApp = () => {
                         type="button"
                         title="پلی استور"
                         icon="/android.svg"
-                        varient="btn_dark"
+                        varient="btn_dark_green_outline"
                         full
                         /> 
                     </div>
