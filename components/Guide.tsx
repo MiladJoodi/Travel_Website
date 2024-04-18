@@ -6,10 +6,10 @@ const Guide = () => {
       <div className="padding-container max-container w-full pb-24">
         <Image src="/camp.svg" alt="camp" width={50} height={50} />
         <p className="regular-18 -mt-1 mb-3 text-green-50">
-          ما اینجاییم برای شما ❤
+          ما اینجاییم برای شما ❤️
         </p>
         <div className="flex flex-wrap justify-between gap-5 lg:gap-10">
-          <h2 className="md:bold-40 bold-32 lg:bold-64 xl:max-w-[390px]">شما را به مسیر آسان راهنمایی می کنیم</h2>
+          <h2 className="md:bold-40 bold-32 lg:bold-64 xl:max-w-[490px]">شما را به مسیر آسان راهنمایی می کنیم</h2>
           <p className="regular-16 text-gray-30 xl:max-w-[520px]">
             برای برنامه‌ریزی سفر به مقاصد مختلف نیاز همه ما نیاز به راهنما و کسب
             اطلاعات داریم و علاوه بر آن باید نوع وسیله حمل و نقل و محل اسکان خود
