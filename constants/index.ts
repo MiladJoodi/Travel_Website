@@ -69,8 +69,8 @@ export const FOOTER_LINKS = [
 export const FOOTER_CONTACT_INFO = {
   title: "تماس با ما",
   links: [
-    { label: "مدیریت", value: "909 230 12 02" },
-    { label: "ایمیل", value: "safarbook@akinthil.com" },
+    { label: "مدیریت", value: "6740 588 910" },
+    { label: "ایمیل", value: "sale@solotravel.com" },
   ],
 };
 

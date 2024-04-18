@@ -13,7 +13,7 @@ const Hero = () => {
           height={50}
           className="absolute right-[-5px] top-[-30px] w-10 lg:w-[50px]"
         />
-        <h1 className="bold-52 lg-bold-99">منطقه کمپ پوتوک ترونو</h1>
+        <h1 className="bold-52 lg-bold-99 mt-4">منطقه کمپ پوتوک ترونو</h1>
         <p className="regular-16 mt-6 text-gray-30 xl:max-w-[520px]">
           تورهای مسافرتی توسط آژانس‌های گردشگری عرضه می‌شوند. خدمات موجود در
           تورهای مسافرتی شامل رزرو اقامتگاه، خرید بلیط وسیله نقلیه، هماهنگی برای

@@ -18,8 +18,8 @@ const Footer = () => {
             <h2 className="regular-20">Solo Travel</h2>
           </Link>
           <div className="flex flex-wrap gap-10 sm:justify-between md:flex-1">
-            {FOOTER_LINKS.map((columns) => (
-              <FooterColumn title={columns.title}>
+            {FOOTER_LINKS.map((columns, index) => (
+              <FooterColumn title={columns.title} key={index}>
                 <ul className="regular-20 flex flex-col gap-4 text-gray-30">
                   {columns.links.map((link) => (
                     <Link href="/" key={link}>
@@ -63,7 +63,7 @@ const Footer = () => {
         <div className="border bg-gray-20" />
         <p className="regular-18 w-full text-center text-gray-30">
           2024 Solo Travel | All rights reserved <br />
-          ❤️ Make with 
+          <a href="https://github.com/MiladJoodi/Travel_Website">❤️ </a>Make with
         </p>
       </div>
     </footer>
